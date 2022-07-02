@@ -1,1 +1,1 @@
-DFIR/Security Researcher. Interested & work in Threat Hunting, Cybersecurity, and tinker with Virtualization
+DFIR/Security Researcher. Interested & work in threat hunting, cybersecurity, and tinker with virtualization
